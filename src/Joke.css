@@ -1,0 +1,23 @@
+.Joke li {
+  list-style: none;
+  padding-top: 1rem;
+  border-bottom: #2cb67d dashed .5px;
+  overflow: scroll;
+  display: flex;
+  width: 97%;
+}
+.far {
+  color: #7f5af0;
+  font-size: 2rem;
+  padding: 1rem;
+}
+.far:hover {
+  cursor: pointer;
+}
+.Joke li span {
+  align-self: center;
+}
+
+.voteValue{
+    align-self: center;
+}
